@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518912315072",
+    "firebase_url": "https://bucks-45843.firebaseio.com",
+    "project_id": "bucks-45843",
+    "storage_bucket": "bucks-45843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518912315072:android:87e5b5a5f089bb5108a725",
+        "android_client_info": {
+          "package_name": "com.example.bucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518912315072-3e6nf8es9u7hnn2chcpfcm4cgqklp2vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7bOye0-bBSxDRBSnsSv3rLuOL4Siu_pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518912315072-3e6nf8es9u7hnn2chcpfcm4cgqklp2vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
