@@ -2,4 +2,5 @@
     <string name="app_name">Bucks</string>
     <string name="string_title">Bucks Coffee</string>
     <string name="string_ment">안녕하세요 Bucks 입니다</string>
+    <string name="main_imgbtn_list">main_imgbtn_list</string>
 </resources>
